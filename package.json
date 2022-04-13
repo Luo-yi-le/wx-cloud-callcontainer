@@ -1,0 +1,24 @@
+{
+    "name": "wx-cloud-callcontainer",
+    "version": "1.0.0",
+    "description": "wx-cloud-callcontainer types. 微信云托管",
+    "main": "./index.d.ts",
+    "types": "./index.d.ts",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "wulingshan",
+    "license": "MIT",
+    "devDependencies": {
+        "typescript": "^4.1.5"
+    },
+    "files": [
+        "README-en.md",
+        "LICENSE",
+        "CHANGELOG.md",
+        "README.md",
+        "index.d.ts",
+        "typings.json",
+        "types/"
+    ]
+}
