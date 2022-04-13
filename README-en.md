@@ -1,6 +1,6 @@
 # Wechat Cloud Callcontainer API Typings
 
-> [中文版本](./README.md)
+> [中文版本](https://github.com/Luo-yi-le/wx-cloud-callcontainer/blob/master/README-en.md)
 
 Type definitions for APIs of Wechat Coud Callcontainer in TypeScript
 
@@ -27,5 +27,5 @@ Or reference by [Triple-Slash Directives](https://www.typescriptlang.org/docs/ha
 
 ## Changelog
 
-See [CHANGELOG.md](https://github.com/wechat-miniprogram/api-typings/blob/master/CHANGELOG.md) (Chinese only)
+See [CHANGELOG.md](https://github.com/Luo-yi-le/wx-cloud-callcontainer/blob/master/CHANGELOG.md) (Chinese only)
 

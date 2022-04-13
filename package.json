@@ -1,9 +1,27 @@
 {
     "name": "wx-cloud-callcontainer",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "wx-cloud-callcontainer types. 微信云托管",
     "main": "./index.d.ts",
     "types": "./index.d.ts",
+    "keywords": [
+        "微信",
+        "托管",
+        "云托管",
+        "weixin",
+        "wx",
+        "cloud",
+        "callcontainer",
+        "wx-cloud-callcontainer"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+ttps://github.com/Luo-yi-le/wx-cloud-callcontainer.git"
+    },
+    "bugs": {
+        "url": "https://github.com/Luo-yi-le/wx-cloud-callcontainer/issues"
+    },
+    "homepage": "https://github.com/Luo-yi-le/wx-cloud-callcontainer#readme",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },

@@ -1,6 +1,6 @@
 # 微信云托管定义文件
 
-> [English version](./README-en.md)
+> [English version](https://github.com/Luo-yi-le/wx-cloud-callcontainer/blob/master/README-en.md)
 
 微信云托管 API 的 TypeScript 类型定义文件
 
@@ -26,7 +26,7 @@ npm install wx-cloud-callcontainer
 
 ## 更新日志
 
-参考 [CHANGELOG.md](https://github.com/wechat-miniprogram/api-typings/blob/master/CHANGELOG.md)
+参考 [CHANGELOG.md](https://github.com/Luo-yi-le/wx-cloud-callcontainer/blob/master/CHANGELOG.md)
 
 
 
